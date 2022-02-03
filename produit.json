@@ -1,0 +1,184 @@
+[
+    
+       {
+           "image": "prouduit1.jpg",
+            "ID" : "200001223",
+            "Name" : "Water Glasses",
+            "Price" : "299 DH",
+            "Catégorie" : "homme,femme",
+            "fourniur" : "Amazon"
+
+            
+            },
+            {
+                "image": "produit4.png",
+                "ID" : "2000015443",
+                "Name" : "diving suis",
+                "Price" : "2499 DH",
+                "Catégorie" : "homme,femme",
+                "fourniur" : "Amazon"
+                },
+               {
+                "image": "produit3.jpg",
+                    "ID" : "2233332",
+                    "Name" : "Face Cream",
+                    "Price" : "499 DH",
+                    "Catégorie" : "homme,femme",
+                    "fourniur" : "Amazon"
+                    },
+
+                   {
+                    "image": "produit2.jpg",
+                        "ID" : "2233354",
+                        "Name" : "diving suit",
+                        "Price" : "3459 DH",
+                        "Catégorie" : "femme",
+                        "fourniur" : "Amazon"
+                        },
+
+                         {
+                            "image": "produit5.jpg",
+                            "ID" : "2233124",
+                            "Name" : "full face diving masks",
+                            "Price" : "199 DH",
+                            "Catégorie" : "homme,femme",
+                            "fourniur" : "Amazon"
+                            },
+
+                             {
+                                "image": "Water Shoes.jpg",
+                                "ID" : "2233164",
+                                "Name" : "Water Shoes",
+                                "Price" : "200 DH",
+                                "Catégorie" : "homme,femme",
+                                "fourniur" : "Amazon"
+                                },
+                              {
+                                "image": "produit6.webp",
+                                    "ID" : "2235424",
+                                    "Name" : "Silicone flippers",
+                                    "Price" : "320 DH",
+                                    "Catégorie" : "homme,femme,kids",
+                                    "fourniur" : "Amazon"
+                                    },
+                                     {
+                                        "image": "Cap.jpg",  
+                                        "ID" : "2236494",
+                                        "Name" : "Silicone Swimming Cap",
+                                        "Price" : "110 DH",
+                                        "Catégorie" : "femme",
+                                        "fourniur" : "Amazon"
+                                        },
+                                       {
+                                        "image": "equipemenet.jpg",
+                                            "ID" : "2236491",
+                                            "Name" : "Water Park Diving_Equipment",
+                                            "Price" : "930 DH",
+                                            "Catégorie" : "homme,femme,kids",
+                                            "fourniur" : "Amazon"
+                                            },
+                                             {
+                                                "image": "mask.jpg",
+                                                "ID" : "2236491",
+                                                "Name" : "Full Face Snorkel Maskt",
+                                                "Price" : "430 DH",
+                                                "Catégorie" : "homme,femme",
+                                                "fourniur" : "Amazon"
+                                                },
+
+
+
+
+
+
+
+
+
+
+
+                                                 {
+                                                    "image": "gopro.jpg",
+                                                    "ID" : "200001274",
+                                                    "Name" : "Camera Gopro Aipaxal",
+                                                    "Price" : "5699 DH",
+                                                    "Catégorie" : "homme,femme",
+                                                    "fourniur" : "Amazon"
+                                                    },
+                                                     {
+                                                        "image": "gooo.jpg",
+                                                        "ID" : "2000015412",
+                                                        "Name" : "Underwater 60m",
+                                                        "Price" : "99 DH",
+                                                        "Catégorie" : "homme,femme",
+                                                        "fourniur" : "Amazon"
+                                                        },
+                                                       {
+                                                        "image": "cloth.jpg",
+                                                            "ID" : "2233332",
+                                                            "Name" : "Sharkskin Swimming",
+                                                            "Price" : "499 DH",
+                                                            "Catégorie" : "homme",
+                                                            "fourniur" : "Amazon"
+                                                            },
+                                        
+                                                        {
+                                                            "image": "swee.jpg",
+                                                                "ID" : "2233354",
+                                                                "Name" : "Seat Boat",
+                                                                "Price" : "3459 DH",
+                                                                "Catégorie" : "kids",
+                                                                "fourniur" : "Amazon"
+                                                                },
+                                        
+                                                                
+                                                                 {
+                                                                     "image" : "jaket.jpg",
+                                                                    "ID" : "2233124",
+                                                                    "Name" : "Jacket for Snorkeling",
+                                                                    "Price" : "399 DH",
+                                                                    "Catégorie" : "homme,femme",
+                                                                    "fourniur" : "Amazon"
+                                                                    },
+                                        
+                                                                    {
+                                                                        "image" : "short.jpg",
+                                                                        "ID" : "2233164",
+                                                                        "Name" : "Swim Shorts Trunks",
+                                                                        "Price" : "230 DH",
+                                                                        "Catégorie" : "homme",
+                                                                        "fourniur" : "Amazon"
+                                                                        },
+                                                                       {
+                                                                        "image" : "whatch.jpg",
+                                                                            "ID" : "2235424",
+                                                                            "Name" : "Swim Watches",
+                                                                            "Price" : "90 DH",
+                                                                            "Catégorie" : "homme,femme,kids",
+                                                                            "fourniur" : "Amazon"
+                                                                            },
+                                                                            {
+                                                                                "image" : "case.jpg",
+                                                                                "ID" : "2236494",
+                                                                                "Name" : "Waterproof Phone Case",
+                                                                                "Price" : "150 DH",
+                                                                                "Catégorie" : "femme",
+                                                                                "fourniur" : "Amazon"
+                                                                                },
+                                                                               {
+                                                                                "image" : "hihi.jpg",
+                                                                                    "ID" : "2236431",
+                                                                                    "Name" : "Water Park Diving_Equipment",
+                                                                                    "Price" : "930 DH",
+                                                                                    "Catégorie" : "femme",
+                                                                                    "fourniur" : "Amazon"
+                                                                                    },
+                                                                                   {
+                                                                                    "image" : "sh.jpg",
+                                                                                        "ID" : "2236491",
+                                                                                        "Name" : "Swimming Swim Shorts",
+                                                                                        "Price" : "400 DH",
+                                                                                        "Catégorie" : "kids",
+                                                                                        "fourniur" : "Amazon"
+                                                                                        }
+    
+                                                                                    ]
